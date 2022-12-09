@@ -20,7 +20,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "express-fileupload": "^1.1.9",
-    "mammoth": "^1.4.9",
+    "mammoth": "^1.5.1",
     "md5": "^2.2.1"
   }
 }
